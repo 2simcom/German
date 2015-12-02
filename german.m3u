@@ -1,24 +1,25 @@
 #EXTM3U
-#EXTINF:-1,SKYSPORTS1
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
 
-#EXTINF:-1,SKYSPORTS2
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports2.stream/chunklist.m3u8
 
-#EXTINF:-1,RBB
-http://217.20.164.196:8080/rbb/index.m3u8
-#EXTINF:-1,KIKA
-http://217.20.164.196:8080/kika/index.m3u8
+#EXTINF:-1***DEUTSCHLAND / ALEMANHA***
+
+
+#EXTINF:-1,ARD
+http://217.20.164.196:8080/ard/index.m3u8
 #EXTINF:-1,ZDF
 http://217.20.164.196:8080/zdf/index.m3u8
 #EXTINF:-1,VOX
 http://217.20.164.196:8080/vox/index.m3u8
 #EXTINF:-1,SAT1
 http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:-1,3SAT
+http://217.20.164.196:8080/3sat/index.m3u8
 #EXTINF:-1,RTL
 http://217.20.164.196:8080/rtl/index.m3u8
 #EXTINF:-1,N-TV
 http://217.20.164.196:8080/n-tv/index.m3u8
+#EXTINF:-1,KIKA
+http://217.20.164.196:8080/kika/index.m3u8
 #EXTINF:-1,Eurosport
 http://217.20.164.196:8080/eurosport/index.m3u8
 #EXTINF:-1,Euronews
@@ -29,27 +30,10 @@ http://217.20.164.196:8080/mdr/index.m3u8
 http://217.20.164.196:8080/ndr/index.m3u8
 #EXTINF:-1,SWR
 http://217.20.164.196:8080/swr/index.m3u8
+#EXTINF:-1,RBB
+http://217.20.164.196:8080/rbb/index.m3u8
 
-#EXTINF:-1***ESPANHA***
-
-
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 1 (La1)[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=35452405
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 2 (La2)[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=91170153
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 24[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=92978413
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]MEGA HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=58315547
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]LA RED EN VIVO HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=14527508
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TV Galicia[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=18178909
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]LA SEXTA HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=88365689
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]ANTENA 3 HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=62326989
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]Russia Today HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=84555053
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TELESUR[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=79272030
+#EXTINF:-1, Sky Sport 1 DE
+rtmp://terra.skykostenlos.com/tv/skysport1de
+#EXTINF:-1, Sky Sport 2 DE
+rtmp://terra.skykostenlos.com/tv/skysport2de
