@@ -86,14 +86,18 @@ http://217.20.164.196:8080/eurosport/index.m3u8
 rtmp://terra.skykostenlos.com/tv/skysport1de
 
 #EXTINF:-1, Sky Sport 2 DE
-
 rtmp://terra.skykostenlos.com/tv/skysport2de
-#EXTINF:-1,SKY SPORT 2
-http://satloveriptv.com:8090/live/mexicano/mexciano/4352.ts
+
+#EXTINF:-1,[COLOR lime][B]------- Langsam gestartet. Bitte warten------[/B][/COLOR]
+
 #EXTINF:-1,SKY SPORT 1
 http://satloveriptv.com:8090/live/mexicano/mexciano/4351.ts
+#EXTINF:-1,SKY SPORT 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/4352.ts
 #EXTINF:-1,Sky Bundesliga 1 HD
 http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
+#EXTINF:-1,SKY SELECT 1
+http://satloveriptv.com:8090/live/mexicano/mexciano/4119.ts
 #EXTINF:-1,SKY SELECT 6
 http://satloveriptv.com:8090/live/mexicano/mexciano/4329.ts
 #EXTINF:-1,SKY SELECT 4
@@ -114,16 +118,6 @@ http://satloveriptv.com:8090/live/mexicano/mexciano/4354.ts
 http://satloveriptv.com:8090/live/mexicano/mexciano/4342.ts
 #EXTINF:-1, Sky Syfy
 http://satloveriptv.com:8090/live/mexicano/mexciano/4108.ts
-#EXTINF:-1, Sky Bundesliga 1 HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
-#EXTINF:-1, Sky Sport 2
-http://satloveriptv.com:8090/live/mexicano/mexciano/4100.ts
-#EXTINF:-1, Sky Sport 1
-http://satloveriptv.com:8090/live/mexicano/mexciano/4099.ts
-#EXTINF:-1, Sky Bundesliga 1 HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
-#EXTINF:-1, Sky Select HD 1
-http://satloveriptv.com:8090/live/mexicano/mexciano/4119.ts
 #EXTINF:-1, Sky Germany National Geographic HD
 http://satloveriptv.com:8090/live/mexicano/mexciano/4111.ts
 #EXTINF:-1, Sky Germany MGM HD
