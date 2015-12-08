@@ -88,7 +88,7 @@ rtmp://terra.skykostenlos.com/tv/skysport1de
 #EXTINF:-1, Sky Sport 2 DE
 rtmp://terra.skykostenlos.com/tv/skysport2de
 
-#EXTINF:-1,[COLOR lime][B]------- Langsam gestartet. Bitte warten------[/B][/COLOR]
+#EXTINF:-1,[COLOR lime][B]-------Langsam gestartet. Bitte warten------[/B][/COLOR]
 
 #EXTINF:-1,SKY SPORT 1
 http://satloveriptv.com:8090/live/mexicano/mexciano/4351.ts
