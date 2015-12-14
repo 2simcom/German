@@ -1,146 +1,80 @@
-#EXTM3U
+﻿#EXTM3U
+#EXTINF:-1,Eurosport DE
+http://217.20.164.196:8080/eurosport/index.m3u8
 
-#EXTINF:-1,[COLOR cyan][B]------- ALEMANHA ------[/B][/COLOR]
+#EXTINF:-1,Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
 
+#EXTINF:-1,NDR HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
 
+#EXTINF:-1,SWR HD
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,ARD
+#EXTINF:-1,WDR HD
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8?sd=10&rebase=on
 
-http://217.20.164.196:8080/ard/index.m3u8
-
-#EXTINF:-1,TAGESSCHAU 24
-
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1,Tagesschau 24 HD
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SAT1
+http://217.20.164.196:8080/sat1/index.m3u8
 
 #EXTINF:-1,ZDF
-
 http://217.20.164.196:8080/zdf/index.m3u8
 
-#EXTINF:-1,VOX
+#EXTINF:-1,ARD
+http://217.20.164.196:8080/ard/index.m3u8
 
-http://217.20.164.196:8080/vox/index.m3u8
-
-#EXTINF:-1,SAT1
-
-http://217.20.164.196:8080/sat1/index.m3u8
 #EXTINF:-1,3SAT
 http://217.20.164.196:8080/3sat/index.m3u8
 
-#EXTINF:-1,RTL
-
-http://217.20.164.196:8080/rtl/index.m3u8
-#EXTINF:-1,N-TV
-http://217.20.164.196:8080/n-tv/index.m3u8
-#EXTINF:-1,KIKA
-
-http://217.20.164.196:8080/kika/index.m3u8
-
-#EXTINF:-1,Euronews
-
-http://217.20.164.196:8080/euronews/index.m3u8
-
-#EXTINF:-1,NDR
-
-http://217.20.164.196:8080/ndr/index.m3u8
-
-#EXTINF:-1,WDR
-
-http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+#EXTINF:-1,RBB
+http://217.20.164.196:8080/rbb/index.m3u8
 
 #EXTINF:-1,MDR
-
 http://217.20.164.196:8080/mdr/index.m3u8
 
 #EXTINF:-1,SWR
-
 http://217.20.164.196:8080/swr/index.m3u8
 
+#EXTINF:-1,NDR
+http://217.20.164.196:8080/ndr/index.m3u8
 
-#EXTINF:-1,RBB
+#EXTINF:-1,NTV
+http://217.20.164.196:8080/n-tv/index.m3u8
 
-http://217.20.164.196:8080/rbb/index.m3u8
+#EXTINF:-1,VOX
+http://217.20.164.196:8080/vox/index.m3u8
+
+#EXTINF:-1,RTL
+http://217.20.164.196:8080/rtl/index.m3u8
+
+#EXTINF:-1,KIKA
+http://217.20.164.196:8080/kika/index.m3u8
+
+#EXTINF:-1,Euronews DE
+http://217.20.164.196:8080/euronews/index.m3u8
+
+#EXTINF:-1,OK Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w817244734.m3u8?bitrate=800
+
+#EXTINF:-1,oOK Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/chunklist_w867931452.m3u8?bitrate=800
+
+#EXTINF:-1,Alex Berlin
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/chunklist_b2192000_slGER.m3u8?bitrate=800
+
+#EXTINF:-1,Anixe
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+
+#EXTINF:-1,RTV AU
+http://wmsstream22.v4.mytv.ris.at:80/live/stream_151
+
+#EXTINF:-1,Deutsche Welle
+http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8
+
+#EXTINF:-1,JOIZ
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
 
 #EXTINF:-1,N24
-
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_.finst_/live.m3u8
-
-#EXTINF:-1,SERVUS TV
-
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
-
-#EXTINF:-1,W 24 Wien
-
-rtmp://ms01.w24.at:1935/livepkgr/livestream2
-
-#EXTINF:-1,AUSTRIA 24 TV
-
-rtmp://streaming.austria24.tv/live/stream_360p
-
-
-#EXTINF:-1,Eurosport
-
-http://217.20.164.196:8080/eurosport/index.m3u8
-
-#EXTINF:-1, Sky Sport 1 DE
-
-rtmp://terra.skykostenlos.com/tv/skysport1de
-
-#EXTINF:-1, Sky Sport 2 DE
-
-rtmp://terra.skykostenlos.com/tv/skysport2de
-#EXTINF:-1,SKY SPORT 2
-http://satloveriptv.com:8090/live/mexicano/mexciano/4352.ts
-#EXTINF:-1,SKY SPORT 1
-http://satloveriptv.com:8090/live/mexicano/mexciano/4351.ts
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
-#EXTINF:-1,SKY SELECT 6
-http://satloveriptv.com:8090/live/mexicano/mexciano/4329.ts
-#EXTINF:-1,SKY SELECT 4
-http://satloveriptv.com:8090/live/mexicano/mexciano/4327.ts
-#EXTINF:-1,SKY SELECT 3
-http://satloveriptv.com:8090/live/mexicano/mexciano/4326.ts
-#EXTINF:-1,SKY SELECT 2
-http://satloveriptv.com:8090/live/mexicano/mexciano/4325.ts
-#EXTINF:-1,SKY COMEDY
-http://satloveriptv.com:8090/live/mexicano/mexciano/4334.ts
-#EXTINF:-1,SKY ATLANTIC
-http://satloveriptv.com:8090/live/mexicano/mexciano/4333.ts
-#EXTINF:-1,RTL
-http://satloveriptv.com:8090/live/mexicano/mexciano/4345.ts
-#EXTINF:-1,FOX TV
-http://satloveriptv.com:8090/live/mexicano/mexciano/4354.ts
-#EXTINF:-1,AXN HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4342.ts
-#EXTINF:-1, Sky Syfy
-http://satloveriptv.com:8090/live/mexicano/mexciano/4108.ts
-#EXTINF:-1, Sky Bundesliga 1 HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
-#EXTINF:-1, Sky Sport 2
-http://satloveriptv.com:8090/live/mexicano/mexciano/4100.ts
-#EXTINF:-1, Sky Sport 1
-http://satloveriptv.com:8090/live/mexicano/mexciano/4099.ts
-#EXTINF:-1, Sky Bundesliga 1 HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
-#EXTINF:-1, Sky Select HD 1
-http://satloveriptv.com:8090/live/mexicano/mexciano/4119.ts
-#EXTINF:-1, Sky Germany National Geographic HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4111.ts
-#EXTINF:-1, Sky Germany MGM HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4114.ts
-#EXTINF:-1, Sky Germany Hits
-http://satloveriptv.com:8090/live/mexicano/mexciano/4113.ts
-#EXTINF:-1, Sky Germany History Channel
-http://satloveriptv.com:8090/live/mexicano/mexciano/4106.ts
-#EXTINF:-1, Sky Germany Discovery Channel HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4104.ts
-#EXTINF:-1, Sky Germany Comedy HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4103.ts
-#EXTINF:-1, Sky Germany Cinema  24
-http://satloveriptv.com:8090/live/mexicano/mexciano/4116.ts
-#EXTINF:-1, Sky Germany Atlantic
-http://satloveriptv.com:8090/live/mexicano/mexciano/4110.ts
-#EXTINF:-1, Sky Germany Action
-http://satloveriptv.com:8090/live/mexicano/mexciano/4115.ts
-#EXTINF:-1, Sky Germany 13 Street HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4112.ts
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream1.m3u8
